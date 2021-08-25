@@ -1,5 +1,5 @@
 <center>
-    <img width=735 src="https://uploaddeimagens.com.br/imagens/jBnErDo">
+    <img width=735 src="https://ibb.co/7Yz5CpB">
     <div align="center">
         <img width=130 src=https://komarev.com/ghpvc/?username=drmidnightytb>
         <img width=103 src=https://img.shields.io/github/followers/drmidnightytb.svg?style=social&label=Follow&maxAge=2592000>
