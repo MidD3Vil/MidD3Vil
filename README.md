@@ -7,26 +7,25 @@
 
 <hr>
 
-<h1>🐊 | Sobre mim...</h1>
+<h1>🐊 | A little bit about me...</h1>
 <blockquote>
   <ul>
-    <li> Me chamo Vinícius... </li>
-    <li> Tenho 16 Anos... </li>
-    <li> Atualmente tenho 1,83 de altura... </li>
-    <li> Comecei a programar em junho de 2020... </li>
+    <li> My name is Vinicius... </li>
+    <li> I'm 16 years old... </li>
+    <li> I started programming in June 2020... </li>
   </ul>
 <p>
-    Linguagens que eu sei... ;-;
+    Langs that I know... ;-;
 </p>
 <ul>
     <li>
-       🐍 | Pyhton - Foi minha primeira lang, portanto sempre terei um carinho especial por ela...
+       🐍 | Pyhton - It was my first lang, so I will always have a special affection for her...
     </li>
     <li>
-       💻 | HTML - Sei apenas o básico de HTML e aprendi com o próposito de me aprofundar um pouco no pen testing...
+       💻 | HTML - I know only the basics of HTML and Learned from the goal to delve a little deeper into the pen testing...
     </li>
     <li>
-       ♦️ | RUBY - Comecei a estudar recentemente pela semelhança em python... 
+       ♦️ | RUBY - RUBY - I started studying recently because of the similarity in python... 
     </li>
 </ul>
 </blockquote>
