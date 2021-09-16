@@ -1,8 +1,8 @@
 <center>
     <img src="https://i.ibb.co/Ssx8ymH/Photo-1629926527414.png" alt="Photo-1629926527414" border="0">
     <div align="center">
-        <img width=130 src=https://komarev.com/ghpvc/?username=drmidnightytb>
-        <img width=103 src=https://img.shields.io/github/followers/drmidnightytb.svg?style=social&label=Follow&maxAge=2592000>
+        <img width=130 src=https://komarev.com/ghpvc/?username=MidD3Vil>
+        <img width=103 src=https://img.shields.io/github/followers/MidD3Vil.svg?style=social&label=Follow&maxAge=2592000>
 </center>
 
 <hr>
@@ -33,8 +33,8 @@
        🔍 | GitHub Analytics
     </h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=drmidnightytb&show_icons=true&theme=tokyonight" alt="drmidnightytb" style="min-width=50%">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmidnightytb&theme=tokyonight&layout=compact" alt="drmidnightytb" style="max-width=70%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MidD3Vil&show_icons=true&theme=tokyonight" alt="MidD3Vil" style="min-width=50%">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidD3Vil&theme=tokyonight&layout=compact" alt="MidD3Vil" style="max-width=70%"/>
 </div>
 <hr>
 <div align="center">
